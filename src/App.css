@@ -1,0 +1,26 @@
+/* src/App.css */
+.App {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  text-align: center;
+}
+
+h1, h2 {
+  margin: 10px 0;
+}
+
+label {
+  display: block;
+  margin: 10px 0;
+}
+
+input[type="number"] {
+  width: 50px;
+  margin-left: 10px;
+}
+
+button {
+  margin: 10px 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
